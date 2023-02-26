@@ -1,2 +1,2 @@
 # SpringBootStudy
-此项目基于SpringBoot,JQuery实现,SpringBoot入门
+此项目为SpringBoot入门项目,基于SpringBoot,JQuery,BootStrap实现
